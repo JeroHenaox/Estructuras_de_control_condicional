@@ -1,0 +1,14 @@
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\bin\Debug\net10.0\Reto_ClinicaVeterinaria.exe
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\bin\Debug\net10.0\Reto_ClinicaVeterinaria.deps.json
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\bin\Debug\net10.0\Reto_ClinicaVeterinaria.runtimeconfig.json
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\bin\Debug\net10.0\Reto_ClinicaVeterinaria.dll
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\bin\Debug\net10.0\Reto_ClinicaVeterinaria.pdb
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\obj\Debug\net10.0\Reto_ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\obj\Debug\net10.0\Reto_ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\obj\Debug\net10.0\Reto_ClinicaVeterinaria.AssemblyInfo.cs
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\obj\Debug\net10.0\Reto_ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\obj\Debug\net10.0\Reto_ClinicaVeterinaria.dll
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\obj\Debug\net10.0\refint\Reto_ClinicaVeterinaria.dll
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\obj\Debug\net10.0\Reto_ClinicaVeterinaria.pdb
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\obj\Debug\net10.0\Reto_ClinicaVeterinaria.genruntimeconfig.cache
+C:\EV04_Estructuras_Condicionales\Reto_ClinicaVeterinaria\obj\Debug\net10.0\ref\Reto_ClinicaVeterinaria.dll

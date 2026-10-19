@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Reto_ClinicaVeterinaria/1.0.0": {
+        "runtime": {
+          "Reto_ClinicaVeterinaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reto_ClinicaVeterinaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
